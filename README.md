@@ -20,7 +20,6 @@ Sou um desenvolvedor apaixonado por programação. Atualmente estou aprendendo J
 ## 📈 Estatísticas do GitHub
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-m&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-m&layout=compact&langs_count=10&theme=dark"/>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-m&show_icons=true&hide_title=true)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-M&layout=compact&langs_count=7theme=dark)
