@@ -1,6 +1,6 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou João Pedro 👋
 
-Sou um desenvolvedor apaixonado por [tecnologias que você mais usa]. Atualmente estou aprendendo [algo novo que você está estudando].
+Sou um desenvolvedor apaixonado por programação. Atualmente estou aprendendo Java, a trabalhar em equipe e outras tecnologias.
 
 ## 🛠️ Tecnologias que uso
 
@@ -19,5 +19,5 @@ Sou um desenvolvedor apaixonado por [tecnologias que você mais usa]. Atualmente
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-m&show_icons=true&hide_title=true)
 
