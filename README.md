@@ -19,5 +19,11 @@ Sou um desenvolvedor apaixonado por programação. Atualmente estou aprendendo J
 
 ## 📈 Estatísticas do GitHub
 
+<div align="center">
+  <a href="https://github.com/Marqueba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marqueba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueba&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-m&show_icons=true&hide_title=true)
 
