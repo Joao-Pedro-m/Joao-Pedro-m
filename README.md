@@ -13,17 +13,16 @@ Sou um desenvolvedor apaixonado por programação. Atualmente estou aprendendo J
 
 Aqui estão alguns dos meus principais projetos, onde aplico e aprimoro meus conhecimentos em diferentes linguagens e tecnologias. Eles variam entre aplicações web, implementações algorítmicas e projetos acadêmicos.
 
-### [to-do-list](https://github.com/Joao-Pedro-m/to-do-list)
-- Uma aplicação de lista de tarefas desenvolvida com React e integrada a um banco de dados, permitindo a gestão eficiente de atividades.
+<div align="center">
 
-### [Projeto_integrador_2023](https://github.com/Joao-Pedro-m/Projeto_integrador_2023)
-- Projeto desenvolvido como parte de um trabalho integrador em 2023, utilizando JavaScript para resolver um problema específico.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-m&repo=to-do-list)](https://github.com/Joao-Pedro-m/to-do-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-m&repo=Game_of_life_in_C)](https://github.com/Joao-Pedro-m/Game_of_life_in_C)
 
-### [exhaustive-method](https://github.com/Joao-Pedro-m/exhaustive-method)
-- Implementação de um método exaustivo em Python, demonstrando habilidades em algoritmos e otimização.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-m&repo=exhaustive-method)](https://github.com/Joao-Pedro-m/exhaustive-method)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Pedro-m&repo=Projeto_integrador_2023)](https://github.com/Joao-Pedro-m/Projeto_integrador_2023)
 
-### [Game_of_life_in_C](https://github.com/Joao-Pedro-m/Game_of_life_in_C)
-- Implementação do "Jogo da Vida" de John Conway em C, simulando autômatos celulares conforme as regras estabelecidas.
+</div>
+
 
 ## 📈 Estatísticas do GitHub
 
