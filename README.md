@@ -86,7 +86,7 @@
 ## 🎯 Objetivos Atuais
 
 - Aprofundar conhecimentos em **arquitetura de software**
-- Desenvolver habilidades em **computação distribuída**
+- Desenvolver habilidades em **liderança e gerência de projetos**
 - Expandir competências em **desenvolvimento web full-stack**
 - Melhorar fluência nos idiomas que estudo
 
