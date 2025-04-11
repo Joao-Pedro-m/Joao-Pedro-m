@@ -14,9 +14,12 @@
 ## 🚀 Sobre Mim
 
 - 🎓 **Estudante de Ciência da Computação** na [UNIR](https://www.unir.br/) (2024-2028)
-- 🔭 **Pesquisador** com 3 anos de experiência em projetos do IFRO
-- ♟️ **Coordenador do Clube de Xadrez** IFRO (2022-2023)
-- 🌍 **Poliglota**: Português (Nativo), Inglês (C2), Espanhol (Intermediário), Russo (Básico)
+- 🔍 **Pesquisador** com experiência em 3 projetos do IFRO: 
+  - **GOTEC** (Grupo de Pesquisa em Tecnologia)
+  - **Let's Gossip** (Projeto de ensino de conversação em inglês)
+  - **GP Mecatrônica** (Grupo de Pesquisa)
+- ♟️ **Ex-Coordenador do Clube de Xadrez** IFRO (2022-2023)
+- 🌍 **Bilíngue**: Português (Nativo), Inglês (C2 - Proficiente), Espanhol (Intermediário), Russo (Básico)
 - 🏆 **Top 3.3%** na OBI 2022 (Competição Brasileira de Programação)
 
 ## 🛠️ Stack Tecnológica
@@ -59,33 +62,33 @@
 
 ## 💼 Experiência Relevante
 
-### **Pesquisador @ IFRO** (2021-2023)
-- **Projeto GOTEC**: Sistema de avaliação de indicadores empresariais com React.js
-  - `Tech Stack:` PHP Laravel, GitLab, Metodologias Ágeis
-  - Resultado: Software funcional utilizado por empresas locais
+### **Pesquisador @ IFRO** (2022-2023)
 
-- **GP Mecatrônica**: Repositório de projetos integradores com Django
-  - `Tech Stack:` Python, Bootstrap, GitHub Actions
-  - Liderança de equipe de 5 desenvolvedores
+- **Projeto GOTEC** *(2022)*
+  - Sistema de avaliação de indicadores empresariais com PHP Laravel
 
-### **Organização de Eventos**
-- 🏅 Coordenador da **OBR 2024** em Porto Velho
-- ♟️ Organizador do **Torneio de Xadrez IFRO** (2022-2023)
-- 🎮 Coordenador do **Orgulho Nerd** (Evento cultural de tecnologia)
+- **GP Mecatrônica** *(2023)*
+  -  Repositório de projetos integradores com Python Django
+  
+- **Projeto Let's Gossip** *(2023)*  
+  - Prática de inglês através de atividades interdisciplinares, aprimorando habilidades de comunicação em equipe.
 
 ## 📚 Formação Acadêmica
 - **Bacharelado em Ciência da Computação**  
   `UNIR` | 2024-2028 (Previsto)
 - **Técnico em Informática**  
-  `IFRO` | 2021-2023 
-  - Projeto Integrador: Sistema de gestão escolar com Django
+  `IFRO` | 2021-2023
 
 ## 📜 Certificações
-| **Tecnológicas** | **Idiomas** |
-|-------------------|-------------|
-| EF SET English C2 Proficient | Espanhol Básico Módulo 1-2 (120h) |
-| Python Attack (40h) | Russo Básico (Auto-didata) |
-| Git/GitHub (4h) | Machine Learning (4h) |
+**Tecnológicas**
+- Machine Learning (4h)
+- Python Attack (40h)
+- Git/GitHub (4h)
+  
+**Idiomas**
+- EF SET English C2 Proficient 
+- Espanhol Básico Módulo 1-2 (120h)
+- Russo Básico (Auto-didata)
 
 ## 🌟 Projetos Destacados
 
