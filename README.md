@@ -13,9 +13,9 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Estudante de Ciência da Computação** na [UNIR](https://www.unir.br/) (2024-2028)
+- 🎓 **Estudante de Ciência da Computação** na [UNIR](https://www.unir.br/) (2024-2028(previsto))
 - 🔍 **Pesquisador** com experiência em 3 projetos do IFRO: 
-  - **GOTEC** (Grupo de Pesquisa em Tecnologia)
+  - **GOTEC** (Grupo de Pesquisa)
   - **Let's Gossip** (Projeto de ensino de conversação em inglês)
   - **GP Mecatrônica** (Grupo de Pesquisa)
 - ♟️ **Ex-Coordenador do Clube de Xadrez** IFRO (2022-2023)
