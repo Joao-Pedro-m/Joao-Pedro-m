@@ -1,6 +1,6 @@
-# 👋 João Pedro Monteiro Ferreira 
+# 👋 Olá, eu sou o João Pedro Monteiro Ferreira
 
-**`Desenvolvedor Full-Stack | Pesquisador | Estudante de Ciência da Computação na UNIR`**
+**`Desenvolvedor Full-Stack & Alta Plataforma | Assessor de TI no Banco do Brasil`**
 
 <div align="center">
   
@@ -11,84 +11,81 @@
 
 </div>
 
+---
+
 ## 🚀 Sobre Mim
 
-- 🎓 **Estudante de Ciência da Computação** na [UNIR](https://www.unir.br/) (2024-2028(previsto))
-- 🔍 **Pesquisador** com experiência em 3 projetos do IFRO: 
-  - **GOTEC** (Grupo de Pesquisa)
-  - **Let's Gossip** (Projeto de ensino de conversação em inglês)
-  - **GP Mecatrônica** (Grupo de Pesquisa)
-- ♟️ **Ex-Coordenador do Clube de Xadrez** IFRO (2022-2023)
-- 🌍 **Bilíngue**: Português (Nativo), Inglês (C2 - Proficiente), Espanhol (Intermediário), Russo (Básico)
-- 🏆 **Top 3.3%** na OBI 2022 (Competição Brasileira de Programação)
+Aos 17 anos, fui aprovado no concurso público do Banco do Brasil, um marco que iniciou minha trajetória pautada em resiliência, alta performance e aprendizado contínuo. Hoje, aos 21 anos, atuo na Diretoria de Tecnologia (DITEC) do banco, encontrando o equilíbrio ideal entre o desenvolvimento em ecossistemas modernos (Full-Stack) e a sustentação de sistemas críticos corporativos. 
+
+Minha jornada é fortemente movida pela adaptabilidade. Ao me mudar de Rondônia para o Distrito Federal, mergulhei no universo de Alta Plataforma, aprendendo a operar arquiteturas legadas como COBOL e DB2, ao mesmo tempo em que as conecto a soluções ágeis de análise de dados com Python e SQL. Essa visão *end-to-end* me permite compreender desde o núcleo transacional de uma das maiores instituições financeiras da América Latina até a entrega de interfaces web modernas.
+
+A disciplina é o motor da minha rotina. Atualmente, concilio a atuação no Banco do Brasil com uma dupla graduação: Licenciatura em Matemática na Universidade de Brasília (UnB) e Engenharia de Software no UniCEUB. Para gerenciar esse nível de esforço e produtividade com eficiência, desenvolvo também minhas próprias ferramentas, como o projeto *Kairos*, voltado para o monitoramento de tempo e foco acadêmico. Transito fluidamente entre o rigor exato e a engenharia de software para construir soluções com impacto real.
+
+---
+
+## 💼 Experiência Profissional
+
+**Banco do Brasil (DITEC - Diretoria de Tecnologia)** | *Brasília, DF*
+* **Assessor 3 Júnior — Análise de Dados** *(Atual)*
+  * Atuação focada em extração, manipulação e análise de dados complexos utilizando **Python, Jupyter e DB2**.
+  * Desenvolvimento de rotinas analíticas para otimização de processos internos e suporte corporativo.
+* **Trainee em Alta Plataforma** *(3 meses)*
+  * Capacitação imersiva e atuação prática com **COBOL e DB2** em Mainframes (HUs), modernizando sistemas críticos.
+* **Estágio Probatório** *(3 meses)*
+  * Imersão em cultura ágil, compliance, segurança da informação e *onboarding* corporativo.
+
+**Instituto Federal de Rondônia (IFRO)** | *2021 - 2023*
+* **Pesquisador de Inovação e Tecnologia:** Atuação no projeto *GOTEC* (Sistema de avaliação empresarial com PHP/Laravel) e *GP Mecatrônica* (Repositório de projetos com Python/Django).
+* **Coordenador do Clube de Xadrez** (2022-2023).
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🏛️ **Licenciatura em Matemática** — Universidade de Brasília (UnB) *(Início: 01/2026)*
+- 💻 **Engenharia de Software** — UniCEUB *(Início: 02/2026)*
+- ⏸️ **Ciência da Computação** — Universidade Federal de Rondônia (UNIR) *(3 períodos cursados, transferido para o DF)*
+- 📜 **Técnico em Informática Integrado** — Instituto Federal de Rondônia (IFRO) *(2021 - 2024)*
+
+---
 
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
   
-### 💻 Linguagens
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Linguagens & Alta Plataforma
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-0052CC?style=for-the-badge&logo=ibm&logoColor=white)
 
-### 🌐 Front-End
+### 🌐 Web & Dados
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 🗃️ Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗃️ Bancos de Dados & Infra
+![DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Ferramentas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Venv](https://img.shields.io/badge/Venv-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-## 💼 Experiência Relevante
+---
 
-### **Pesquisador @ IFRO** (2022-2023)
+## 🏆 Conquistas & Idiomas
 
-- **Projeto GOTEC** *(2022)*
-  - Sistema de avaliação de indicadores empresariais com PHP Laravel
+- 🏅 **Olimpíada Brasileira de Informática (OBI 2022):** Classificado no Top 3.3% nacional.
+- 🗣️ **Inglês:** C2 Proficiente (Certificação EF SET).
+- 🗣️ **Espanhol & Russo:** Nível Básico.
 
-- **GP Mecatrônica** *(2023)*
-  -  Repositório de projetos integradores com Python Django
-  
-- **Projeto Let's Gossip** *(2023)*  
-  - Prática de inglês através de atividades interdisciplinares, aprimorando habilidades de comunicação em equipe.
-
-## 📚 Formação Acadêmica
-- **Bacharelado em Ciência da Computação**  
-  `UNIR` | 2024-2028 (Previsto)
-- **Técnico em Informática**  
-  `IFRO` | 2021-2023
-
-## 📜 Certificações
-**Tecnológicas**
-- Machine Learning (4h)
-- Python Attack (40h)
-- Git/GitHub (4h)
-  
-**Idiomas**
-- EF SET English C2 Proficient 
-- Espanhol Básico Módulo 1-2 (120h)
-- Russo Básico (Auto-didata)
+---
 
 ## 🌟 Projetos Destacados
 
@@ -102,20 +99,18 @@
 
 </div>
 
+---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
 
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-m&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Joao-Pedro-m)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-m&layout=compact&theme=radical&hide=html,css)](https://github.com/Joao-Pedro-m)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-m&layout=compact&theme=radical&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-m)
 
 </div>
 
-## 🎯 Objetivos Atuais
-- 🔍 Aprofundar conhecimentos em **Arquitetura de Software**
-- 📈 Desenvolver habilidades em **Gestão de Projetos**
-- 🌐 Expandir portfólio com projetos **Full-Stack Complexos**
-- 🗣️ Alcançar fluência em **Russo** até 2025
+<br>
 
 <div align="center">
   
